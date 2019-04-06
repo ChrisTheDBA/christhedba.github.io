@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jekyll:
     image: jekyll/jekyll:pages
     command: jekyll serve --watch --incremental
@@ -8,3 +9,14 @@ jekyll:
 
 
         # docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build
+=======
+version: '2'
+
+services:
+  jekyll:
+    image: raveious/jekyll-website
+    volumes:
+      - .:/site
+    ports:
+      - '4000:4000'
+>>>>>>> 08a0399dc59a71fa04b0b341fefdcaddf8baf5c4

@@ -50,6 +50,27 @@ img {
 			}
 		}
 
+		&.circle {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 100%;
+			
+			img {
+				border-radius: 70%;
+			}
+		}
+
+		&.oval {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 100%;
+			
+			img {
+				width: 100%;
+				border-radius: 50%;
+			}
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;

@@ -6,10 +6,6 @@ image: assets/images/reference-new.jpg
 nav-menu: true
 ---
 
-Reference #1
+Mills, K. A. (2015). Literacy Theories for the Digital Age:  Social, Critical, Multimodal, Spatial, Material and Sensory Lenses. Bristol, Buffalo, Toronto: Multilingual Matters.
 
-Reference #2
 
-Reference #3
-
-Reference #4

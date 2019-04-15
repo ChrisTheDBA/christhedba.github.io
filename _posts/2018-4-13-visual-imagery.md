@@ -2,7 +2,7 @@
 layout: post
 title: Visual Imagery
 description: A Picture is Worth a Thousand Words
-image: assets/images/tech-eye.jpg
+image: assets/images/tech-eye-new.jpg
 banner: assets/images/tech-eye-new.jpg
 
 ---

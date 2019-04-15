@@ -2,7 +2,9 @@
 layout: post
 title: Visual Imagery
 description: A Picture is Worth a Thousand Words
-image: assets/images/tech-eye-new.jpg
+image: assets/images/tech-eye.jpg
+banner: assets/images/tech-eye-new.jpg
+
 ---
 <h3><span><b>
 Engaged Students Learn Data Skills

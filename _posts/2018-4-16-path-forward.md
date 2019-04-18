@@ -2,7 +2,8 @@
 layout: post
 title: A Path Forward for Open Data
 description: The Case for Media Literacy in Open Data
-image: assets/images/pic04.jpg
+image: assets/images/valley.jpg
+banner: assets/images/valley-new.jpg
 ---
 
 <h3>Introduction</h3>

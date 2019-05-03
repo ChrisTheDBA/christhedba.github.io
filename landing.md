@@ -16,7 +16,7 @@ nav-menu: true
 	</div>
 <!-- Contact -->
 <section id="contact">
-	<div class="inner" style="background:accent6">
+	<div class="inner" style="background:highlight">
 		<form action="https://formspree.io/{{ site.email }}" method="POST">
 			<div class="field half first">
 				<label for="name">Name</label>

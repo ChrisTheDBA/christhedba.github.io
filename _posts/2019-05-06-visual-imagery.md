@@ -37,4 +37,4 @@ The image allows more information about the idea to be transmitted than the word
 <p><span>
 Citation:
 Alba, D. (2015, August 20). Huh? Schools think kids don’t want to learn Computer Science. Retrieved from https://www.wired.com/2015/08/schools-dont-think-kids-want-learn-computer-science/
-</p></span>
+</span></p>

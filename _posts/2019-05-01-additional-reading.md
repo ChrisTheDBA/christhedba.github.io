@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Reference Material
-description: Reference material 
-image: assets/images/reference-new.jpg
-nav-menu: true
+title: Additional Reading and Credits
+description: For more information and 
+image: assets/images/pic03.jpg
 ---
-
 <p>
 Govlab. (n.d.). The Open Data 500. Retrieved from http://www.opendata500.com/us/
 </p>

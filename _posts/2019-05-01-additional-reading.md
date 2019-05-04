@@ -2,7 +2,7 @@
 layout: post
 title: Additional Reading and Credits
 description: For more information and 
-image: assets/images/pic03.jpg
+image: assets/images/library.jpg
 ---
 <p>
 Govlab. (n.d.). The Open Data 500. Retrieved from http://www.opendata500.com/us/

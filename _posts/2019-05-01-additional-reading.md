@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Additional Reading and Credits
-description: For more information and 
+description: For more information on the materials used to build this site.
 image: assets/images/library.jpg
 ---
 <p>

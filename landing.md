@@ -31,7 +31,7 @@ nav-menu: true
 				<textarea name="message" id="message" rows="6"></textarea>
 			</div> -->
 			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
+				<li><input type="submit" value="Join Now" class="special" /></li>
 				<li><input type="reset" value="Clear" /></li>
 			</ul>
 		</form>
